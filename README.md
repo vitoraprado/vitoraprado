@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! 👋
 
 <!--
 **vitoraprado/vitoraprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📈 Minhas Estatísticas:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" height="150" alt="Linguagens mais usadas" />
+</p>
