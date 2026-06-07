@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vitoraprado/vitoraprado/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vitoraprado/vitoraprado/snake.svg" alt="Snake animation" />
 
 ###
 
